@@ -1,5 +1,6 @@
 package com.janmejaya.hotel.hotel_management_system.entity;
 
+import com.janmejaya.hotel.hotel_management_system.enums.RoomType;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

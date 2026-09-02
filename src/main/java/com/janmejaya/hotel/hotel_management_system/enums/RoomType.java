@@ -1,4 +1,4 @@
-package com.janmejaya.hotel.hotel_management_system.entity;
+package com.janmejaya.hotel.hotel_management_system.enums;
 
 public enum RoomType {
 

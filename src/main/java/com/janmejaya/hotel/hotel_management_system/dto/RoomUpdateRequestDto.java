@@ -1,6 +1,6 @@
 package com.janmejaya.hotel.hotel_management_system.dto;
 
-import com.janmejaya.hotel.hotel_management_system.entity.RoomType;
+import com.janmejaya.hotel.hotel_management_system.enums.RoomType;
 import jakarta.validation.constraints.*;
 import lombok.*;
 
