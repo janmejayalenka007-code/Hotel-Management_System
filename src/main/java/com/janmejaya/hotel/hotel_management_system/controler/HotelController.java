@@ -13,7 +13,8 @@ import java.util.List;
 @CrossOrigin(origins = {
         "http://localhost:5173",
         "http://localhost:5174",
-        "http://localhost:5175"
+        "http://localhost:5175",
+        "https://spectacular-beijinho-17818b.netlify.app"
 })
 @RequestMapping("/api/hotels")
 public class HotelController {
