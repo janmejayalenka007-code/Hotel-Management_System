@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:5175",
-        "https://coruscating-moonbeam-ab875f.netlify.app"
+       "https://genuine-profiterole-cd1dd0.netlify.app"
 })
 public class PaymentController {
 
