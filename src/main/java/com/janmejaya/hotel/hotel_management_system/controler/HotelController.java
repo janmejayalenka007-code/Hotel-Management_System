@@ -14,7 +14,7 @@ import java.util.List;
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:5175",
-        "https://spectacular-beijinho-17818b.netlify.app"
+       "https://coruscating-moonbeam-ab875f.netlify.app"
 })
 @RequestMapping("/api/hotels")
 public class HotelController {
