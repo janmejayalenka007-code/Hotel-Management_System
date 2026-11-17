@@ -15,7 +15,7 @@ import java.util.List;
         "http://localhost:5173",
         "http://localhost:5174",
         "http://localhost:5175",
-        "https://vermillion-crumble-bcf969.netlify.app"
+        "https://eloquent-semolina-9eea28.netlify.app"
 })
 public class BookingController {
 
